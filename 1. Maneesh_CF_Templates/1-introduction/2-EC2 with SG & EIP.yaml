@@ -1,3 +1,4 @@
+#EC2 with EIP and 2 Security Groups
 ---
 Resources:
   MyInstance:
