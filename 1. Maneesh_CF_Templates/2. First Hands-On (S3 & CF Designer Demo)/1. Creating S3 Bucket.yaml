@@ -1,0 +1,6 @@
+#Creating S3 Bucket
+---
+Resources:
+  MyS3Bucket:
+    Type: "AWS::S3::Bucket"
+    Properties: {}
